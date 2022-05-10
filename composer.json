@@ -1,0 +1,5 @@
+{
+  "autoload": {
+    "classmap": ["library/database.php", "library/Job.php", "library/Template.php"]
+  }
+}
